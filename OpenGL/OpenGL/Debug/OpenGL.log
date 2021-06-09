@@ -1,0 +1,6 @@
+﻿  test.cpp
+c:\users\mjlee\onedrive\문서\visual studio 2015\projects\opengl\opengl\test.cpp(13): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\mjlee\onedrive\문서\visual studio 2015\projects\opengl\opengl\test.cpp(14): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\mjlee\onedrive\문서\visual studio 2015\projects\opengl\opengl\test.cpp(16): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+  OpenGL.vcxproj -> C:\Users\mjlee\OneDrive\문서\Visual Studio 2015\Projects\OpenGL\Debug\OpenGL.exe
+  OpenGL.vcxproj -> C:\Users\mjlee\OneDrive\문서\Visual Studio 2015\Projects\OpenGL\Debug\OpenGL.pdb (Full PDB)
